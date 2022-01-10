@@ -2,7 +2,7 @@
 
 ![Faker.js](https://raw.githubusercontent.com/hckrnews/faker/master/logo.png)
 
-Special thanks to tMarak for creating this!
+Special thanks to Marak for creating this!
 
 ## FAQ - What happened to the original faker.js?
 

@@ -6,7 +6,7 @@ http://github.com/marak/faker.js
 ## v1.0.0
 - Initial release of the hckrnews version of faker.js library
 
-# Version of Marek
+# Version of Marak
 
 ## v4.0.0
 
