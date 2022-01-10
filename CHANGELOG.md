@@ -3,6 +3,11 @@
 See commit history on Github for change history
 http://github.com/marak/faker.js
 
+## v1.0.0
+- Initial release of the hckrnews version of faker.js library
+
+# Version of Marek
+
 ## v4.0.0
 
 ### Dist
