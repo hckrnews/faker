@@ -3,6 +3,7 @@
   "description": "Generate massive amounts of fake contextual data",
   "version": "1.0.0",
   "contributors": [
+    "Marak Squires <marak.squires@gmail.com>",
     "Pieter Wigboldus <npm@w3news.org>"
   ],
   "repository": {

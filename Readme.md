@@ -1,18 +1,12 @@
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
-![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
+![Faker.js](https://raw.githubusercontent.com/hckrnews/faker/master/logo.png)
 
-[![Build Status](https://travis-ci.org/Marak/faker.js.svg?branch=master)](https://travis-ci.org/Marak/faker.js) [![Coverage Status](https://coveralls.io/repos/github/Marak/faker.js/badge.svg?branch=master)](https://coveralls.io/github/Marak/faker.js?branch=master)
-
-[![npm version](https://badge.fury.io/js/faker.svg)](http://badge.fury.io/js/faker)
-
-[![OpenCollective](https://opencollective.com/fakerjs/backers/badge.svg)](#backers)
-[![OpenCollective](https://opencollective.com/fakerjs/sponsors/badge.svg)](#sponsors)
-[![Gitter chat](https://badges.gitter.im/marak/faker.js.png)](https://gitter.im/Faker-js/community)
+Special thanks to tMarak for creating this!
 
 ## FAQ - What happened to the original faker.js?
 
-This project was originally created and hosted at https://github.com/marak/Faker.js/ - however around 4th Jan, 2022 - the author decided to delete the repository (for unknown reasons).
+This project was originally created and hosted at https://github.com/hckrnews/faker/ - however around 4th Jan, 2022 - the author decided to delete the repository (for unknown reasons).
 
 In the interest of the community, it has been decided that faker.js will continue to be maintained here and all help in its development will be appreciated.
 
@@ -414,7 +408,7 @@ npm run jsdoc
 
 faker.js is a popular project used by many organizations and individuals in production settings. Major and Minor version releases are generally on a monthly schedule. Bugs fixes are addressed by severity and fixed as soon as possible.
 
-If you require the absolute latest version of `faker.js` the `master` branch @ <http://github.com/marak/faker.js/> should always be up to date and working.
+If you require the absolute latest version of `faker.js` the `master` branch @ <http://github.com/hckrnews/faker/> should always be up to date and working.
 
 ## Maintainer
 
@@ -423,7 +417,7 @@ If you require the absolute latest version of `faker.js` the `master` branch @ <
 faker.js - Copyright (c) 2020
 Marak Squires
 www.marak.com
-http://github.com/marak/faker.js/
+http://github.com/hckrnews/faker/
 
 faker.js was inspired by and has used data definitions from:
 

@@ -49,7 +49,7 @@ http://github.com/marak/faker.js
 
 ## v3.1.0
 
-( partial change log see: https://github.com/Marak/faker.js/commits/master for full details )
+( partial change log see: https://github.com/hckrnews/faker/commits/master for full details )
 
 ```
 [docs] Added JSDocs
