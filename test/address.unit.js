@@ -170,7 +170,7 @@ describe("address.js", function () {
     context("when useFulladdress is true", function () {
       it("adds a secondary address to the result", function () {
         faker.address.streetAddress(true);
-        
+
         assert.ok(faker.address.secondaryAddress.called);
       });
     });
@@ -232,7 +232,7 @@ describe("address.js", function () {
       assert.strictEqual(countryCode.length, 3, "The countryCode should be had 3 characters");
       faker.address.countryCode.restore();
     });
-        
+
   });
 
   describe("state()", function () {

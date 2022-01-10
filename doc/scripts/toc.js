@@ -177,27 +177,27 @@
 
       calcHadingOffsets();
     });
-};
+  };
 
 
-jQuery.fn.toc.defaults = {
-  container: 'body',
-  selectors: 'h1,h2,h3',
-  smoothScrolling: true,
-  prefix: 'toc',
-  onHighlight: function() {},
-  highlightOnScroll: true,
-  navbarOffset: 0,
-  anchorName: function(i, heading, prefix) {
-    return prefix+i;
-  },
-  headerText: function(i, heading, $heading) {
-    return $heading.text();
-  },
-  itemClass: function(i, heading, $heading, prefix) {
-    return prefix + '-' + $heading[0].tagName.toLowerCase();
-  }
+  jQuery.fn.toc.defaults = {
+    container: 'body',
+    selectors: 'h1,h2,h3',
+    smoothScrolling: true,
+    prefix: 'toc',
+    onHighlight: function() {},
+    highlightOnScroll: true,
+    navbarOffset: 0,
+    anchorName: function(i, heading, prefix) {
+      return prefix+i;
+    },
+    headerText: function(i, heading, $heading) {
+      return $heading.text();
+    },
+    itemClass: function(i, heading, $heading, prefix) {
+      return prefix + '-' + $heading[0].tagName.toLowerCase();
+    }
 
-};
+  };
 
 })(jQuery);
